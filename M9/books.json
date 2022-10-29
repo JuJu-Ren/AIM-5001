@@ -1,23 +1,21 @@
-[
-  {
+[{
     "Title": "Nineteen Eighty-Four",
     "Authors": "George Orweel",
     "Publisher(s)": "Secker & Warburg",
     "Originally published": "June 8, 1949",
     "Genres": "Science Fiction, Dystopian Fiction, Social Science Fiction"
-  },
-  {
+},
+{
     "Title": "The Moon and Sixpence",
     "Authors": "William Somerset Maugham",
-    "Publisher(s)": "William Heinemann"
+    "Publisher(s)": "William Heinemann",
     "Originally published": "April 15, 1919",
     "Genres": "Novel, Psychological Fiction"
-  },
-  {
+},
+{
     "Title": "Feature Engineering for Machine Learning",
     "Authors": "Alice Zheng and Amanda Casari",
-    "Publisher(s)":"O'Reilly Media, Inc."
+    "Publisher(s)":"O'Reilly Media, Inc.",
     "Originally published": "June 2016",
     "Genres": "Computers"
-  }
-]
+}]
